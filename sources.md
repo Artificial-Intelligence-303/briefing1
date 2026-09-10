@@ -93,22 +93,3 @@ wrong about somebody.
 | **EUR-Lex** (eur-lex.europa.eu) | The official text of the EU AI Act and its implementation timetable, which is the schedule most companies are actually working to. |
 | **FTC** (ftc.gov) and **EEOC** (eeoc.gov) press releases and enforcement actions | Concrete cases: who was investigated, for what, and what it cost them. |
 | **AI Incident Database** (incidentdatabase.ai) | A public, searchable, dated record of documented AI harms. Countable by year and by sector, which makes it chartable. |
-
----
-
-## The warning, because this assignment is unusually exposed to it
-
-Ask a chat model what happened recently in your area and it will answer fluently, in detail, with
-dates, and with numbers. Some will be real. Some will be from two years ago described as though it
-were last month. Some will be a company, a filing, or a statistic that does not exist.
-
-**A fabricated number is harder to catch than a fabricated story, because it looks like precision.**
-"18.3 percent of mid-sized firms" reads as though somebody counted.
-
-So: every number in your brief has to appear on a page you personally opened, at a link you can put
-in the file. If you cannot find it anywhere outside the chat window, it is not a fact, and saying
-that out loud would make a better briefing than pretending otherwise.
-
-Where these tools genuinely help on this assignment: suggesting search terms, naming the agencies and
-organisations that work in your area, explaining a piece of jargon in a filing, and tightening your
-writing once the reporting is yours.
