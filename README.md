@@ -7,18 +7,17 @@ This repository is your group's first briefing. There are two files to produce a
 | Your written briefing | `briefing.md`, in this folder, with that exact name | Yes |
 | Your visual | `figure.png` (or `.jpg`, or `.svg`), in this folder | Yes |
 
-Both are due **at the start of class on the day you present**. Push them to this repository. There
-is nothing to email and nothing to upload anywhere else.
+Both are due **at the start of class on the day you present**. Push them to this repository.
 
 ## What a briefing is
 
 Three to five minutes, every member speaking, on what is actually happening in your group's area of
 AI in the world. Not what AI might do one day. What it did, where, to whom, and how much.
 
-Your group keeps the same area all term, so by December you can say how your corner of this changed
-across four months and whether what people claimed in September held up. Later rounds come as their
-own repositories, and some of them will give you the reading rather than asking you to find it.
-**This one asks you to find it.**
+**For this briefing you choose your own group.**
+
+Later rounds come as their own repositories, and some of them will give you the reading rather than
+asking you to find it. **This one asks you to find it.**
 
 ## The three things that make it a briefing rather than a summary
 
@@ -78,4 +77,4 @@ a filing, or a statistic that does not exist. A fabricated number is harder to c
 fabricated story, because it looks like precision.
 
 **Every development in your brief needs a link you personally opened, and every number needs to
-appear on the page behind that link.** Not a citation a tool gave you. A page you read.
+appear on the page behind that link.**
