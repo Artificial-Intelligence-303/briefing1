@@ -33,8 +33,7 @@ number. `sources.md` lists reputable places to start for every area.
 
 ## Key developments
 
-List two or three. Every one needs a link you opened yourself, a date, and **a number**. A
-development with no quantity in it is an anecdote, and this assignment is not asking for anecdotes.
+List two or three. Every one needs a link you opened yourself, a date, and **a number**. 
 
 **1.**
 - Headline:
@@ -61,7 +60,7 @@ development with no quantity in it is an anecdote, and this assignment is not as
 
 ## Your visual
 
-One picture the class can read in ten seconds. **Design it or find it, either is fine**, but say
+One picture the class can see. **Design it or find it, either is fine**, but say
 which, and say where the data came from.
 
 Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also work). It gets
@@ -76,7 +75,7 @@ published with your briefing and projected while you present.
 
 ## Why it matters
 
-> Explain this to someone who is not in a computer science class. Who is affected, and how?
+> Explain this to someone who is not in a computer and information science class. Who is affected, and how?
 
 
 
