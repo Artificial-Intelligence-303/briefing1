@@ -43,7 +43,7 @@ a graph of who is connected to whom, or a comparison of two groups on the same m
 4. Commit and push. Check that both files appear on GitHub.
 
 Your briefing is published at **areweagentsyet.com/briefings/** and turned into a projection deck
-automatically. **You do not need to make slides.** Your will present from the published deck.
+automatically. **You do not need to make slides.** You will present from the published deck.
 
 ## Where to look for sources
 
@@ -57,8 +57,15 @@ Three points, split three ways.
 | Component | Points | Notes |
 | :--- | :--- | :--- |
 | The written brief | 1 | Every field answered specifically. Every development has a source, a date, a link, and a number. Your visual is present and attributed. |
-| The analysis | 1 | Your claims are supported by what you cite, you understood what you read, and  explained "why it matters". |
+| The analysis | 1 | Your claims are supported by what you cite, you understood what you read, and you explained "why it matters". |
 | The oral briefing | 1 | Graded individually on clarity. Each team has three to five minutes, and time to answer a question afterwards. |
+
+## How this assignment was built
+
+The five areas, and the rule that every development needs a link you opened yourself, are mine. I used Claude to draft an outline of this README, the form in `briefing.md`, and
+the starting points in `sources.md`, and I checked a number of those sources against the sites
+themselves before keeping them. I also used Claude to build the pipeline that reads what you push
+here and publishes it to the course website. 
 
 ## Using AI on this
 
