@@ -19,6 +19,18 @@ AI in the world. What it did, where, to whom, and how much.
 Later rounds come as their own repositories, and some of them will give you the reading rather than
 asking you to find it. **This one asks you to find it.**
 
+## The five areas
+
+Each group gets one of these, assigned in class. Full source lists for each are in `sources.md`.
+
+| Area | What you are watching |
+| :--- | :--- |
+| **1. Who is actually using it** | Adoption and reach: what share of firms, workers, students, and public agencies report using these systems, how that differs by industry and place, and how fast it changed. |
+| **2. The environmental bill** | Data centre electricity and water, where they are being built and who lives there, emissions, and grid impact. |
+| **3. Following the money** | Who is spending, who is raising, who profits, and who pays. |
+| **4. People and work** | Hiring, displacement, wage effects, what jobs are actually changing, and the people who label the data. |
+| **5. Rules and accountability** | Regulation, litigation, liability, procurement rules, and what happens when one of these systems is wrong about somebody. |
+
 ## The three things that make it a briefing rather than a summary
 
 **1. Numbers.** Every development you report needs to have a figure with a unit and a date. If you cannot find a number, you have not found the source yet.
